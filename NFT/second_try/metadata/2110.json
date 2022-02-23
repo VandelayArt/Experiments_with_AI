@@ -1,0 +1,35 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmRUEiWuV3YRweyE4e8zYMmifK54ZuVSwAE2XLfs95Jp47/2110.png",
+    "tokenId": 2110,
+    "name": "DANCING_BEARS_ON_ACID 2110",
+    "attributes": [
+        {
+            "trait_type": "Backgrounds",
+            "value": "Black Tie Dye"
+        },
+        {
+            "trait_type": "Bears",
+            "value": "Pink and Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rayban"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Golden Earrings"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Goatie"
+        },
+        {
+            "trait_type": "Outfits",
+            "value": "Xmen Uniform"
+        },
+        {
+            "trait_type": "Powers",
+            "value": "LaserBeam"
+        }
+    ]
+}

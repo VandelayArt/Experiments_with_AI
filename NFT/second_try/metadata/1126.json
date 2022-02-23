@@ -1,0 +1,35 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmRUEiWuV3YRweyE4e8zYMmifK54ZuVSwAE2XLfs95Jp47/1126.png",
+    "tokenId": 1126,
+    "name": "DANCING_BEARS_ON_ACID 1126",
+    "attributes": [
+        {
+            "trait_type": "Backgrounds",
+            "value": "African Rasta"
+        },
+        {
+            "trait_type": "Bears",
+            "value": "Pink and Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bootsy"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Bootsy"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "No Mouth Decoration"
+        },
+        {
+            "trait_type": "Outfits",
+            "value": "Bootsy"
+        },
+        {
+            "trait_type": "Powers",
+            "value": "No Power"
+        }
+    ]
+}

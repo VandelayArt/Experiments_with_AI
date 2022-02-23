@@ -1,0 +1,35 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmRUEiWuV3YRweyE4e8zYMmifK54ZuVSwAE2XLfs95Jp47/744.png",
+    "tokenId": 744,
+    "name": "DANCING_BEARS_ON_ACID 744",
+    "attributes": [
+        {
+            "trait_type": "Backgrounds",
+            "value": "Dark Rasta Bear Spiral"
+        },
+        {
+            "trait_type": "Bears",
+            "value": "Blue and Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Groovy"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Jerry Hair"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Gold Tooth"
+        },
+        {
+            "trait_type": "Outfits",
+            "value": "Xmen Uniform"
+        },
+        {
+            "trait_type": "Powers",
+            "value": "No Power"
+        }
+    ]
+}

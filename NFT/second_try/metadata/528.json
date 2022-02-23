@@ -1,0 +1,35 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmRUEiWuV3YRweyE4e8zYMmifK54ZuVSwAE2XLfs95Jp47/528.png",
+    "tokenId": 528,
+    "name": "DANCING_BEARS_ON_ACID 528",
+    "attributes": [
+        {
+            "trait_type": "Backgrounds",
+            "value": "The Rabbit Hole"
+        },
+        {
+            "trait_type": "Bears",
+            "value": "Pink Tie Dye and White"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Cyclops"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "No Hairstyle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bloody Fangs"
+        },
+        {
+            "trait_type": "Outfits",
+            "value": "No Outfit"
+        },
+        {
+            "trait_type": "Powers",
+            "value": "No Power"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmRUEiWuV3YRweyE4e8zYMmifK54ZuVSwAE2XLfs95Jp47/1864.png",
+    "tokenId": 1864,
+    "name": "DANCING_BEARS_ON_ACID 1864",
+    "attributes": [
+        {
+            "trait_type": "Backgrounds",
+            "value": "Black Tie Dye"
+        },
+        {
+            "trait_type": "Bears",
+            "value": "Green and Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "No Eye Decoration"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Golden Earrings"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cigarette"
+        },
+        {
+            "trait_type": "Outfits",
+            "value": "Bootsy"
+        },
+        {
+            "trait_type": "Powers",
+            "value": "No Power"
+        }
+    ]
+}

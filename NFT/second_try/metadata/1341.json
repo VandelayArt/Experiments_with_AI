@@ -1,0 +1,35 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmRUEiWuV3YRweyE4e8zYMmifK54ZuVSwAE2XLfs95Jp47/1341.png",
+    "tokenId": 1341,
+    "name": "DANCING_BEARS_ON_ACID 1341",
+    "attributes": [
+        {
+            "trait_type": "Backgrounds",
+            "value": "Bear Spiral"
+        },
+        {
+            "trait_type": "Bears",
+            "value": "Purple and Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Groovy"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Jerry Hair"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "No Mouth Decoration"
+        },
+        {
+            "trait_type": "Outfits",
+            "value": "Bootsy"
+        },
+        {
+            "trait_type": "Powers",
+            "value": "No Power"
+        }
+    ]
+}

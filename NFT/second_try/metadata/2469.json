@@ -1,0 +1,35 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmRUEiWuV3YRweyE4e8zYMmifK54ZuVSwAE2XLfs95Jp47/2469.png",
+    "tokenId": 2469,
+    "name": "DANCING_BEARS_ON_ACID 2469",
+    "attributes": [
+        {
+            "trait_type": "Backgrounds",
+            "value": "The Rabbit Hole"
+        },
+        {
+            "trait_type": "Bears",
+            "value": "Yellow and Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rayban"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Jerry Hair"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bloody Fangs"
+        },
+        {
+            "trait_type": "Outfits",
+            "value": "Xmen Uniform"
+        },
+        {
+            "trait_type": "Powers",
+            "value": "No Power"
+        }
+    ]
+}

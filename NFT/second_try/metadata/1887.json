@@ -1,0 +1,35 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmRUEiWuV3YRweyE4e8zYMmifK54ZuVSwAE2XLfs95Jp47/1887.png",
+    "tokenId": 1887,
+    "name": "DANCING_BEARS_ON_ACID 1887",
+    "attributes": [
+        {
+            "trait_type": "Backgrounds",
+            "value": "Grateful Skull Tie Dye"
+        },
+        {
+            "trait_type": "Bears",
+            "value": "Fully Black Tie Dye"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Groovy"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Golden Earrings"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Gold Tooth"
+        },
+        {
+            "trait_type": "Outfits",
+            "value": "No Outfit"
+        },
+        {
+            "trait_type": "Powers",
+            "value": "No Power"
+        }
+    ]
+}

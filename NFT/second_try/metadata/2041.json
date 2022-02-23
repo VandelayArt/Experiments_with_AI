@@ -1,0 +1,35 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmRUEiWuV3YRweyE4e8zYMmifK54ZuVSwAE2XLfs95Jp47/2041.png",
+    "tokenId": 2041,
+    "name": "DANCING_BEARS_ON_ACID 2041",
+    "attributes": [
+        {
+            "trait_type": "Backgrounds",
+            "value": "Peace Out"
+        },
+        {
+            "trait_type": "Bears",
+            "value": "Fully Black Tie Dye"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "No Eye Decoration"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "No Hairstyle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Gold Tooth"
+        },
+        {
+            "trait_type": "Outfits",
+            "value": "Bootsy"
+        },
+        {
+            "trait_type": "Powers",
+            "value": "No Power"
+        }
+    ]
+}

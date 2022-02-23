@@ -1,0 +1,35 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmRUEiWuV3YRweyE4e8zYMmifK54ZuVSwAE2XLfs95Jp47/648.png",
+    "tokenId": 648,
+    "name": "DANCING_BEARS_ON_ACID 648",
+    "attributes": [
+        {
+            "trait_type": "Backgrounds",
+            "value": "Sunshine DayDream"
+        },
+        {
+            "trait_type": "Bears",
+            "value": "Green and Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Groovy"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "No Hairstyle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cigarette"
+        },
+        {
+            "trait_type": "Outfits",
+            "value": "No Outfit"
+        },
+        {
+            "trait_type": "Powers",
+            "value": "No Power"
+        }
+    ]
+}

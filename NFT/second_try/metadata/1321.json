@@ -1,0 +1,35 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmRUEiWuV3YRweyE4e8zYMmifK54ZuVSwAE2XLfs95Jp47/1321.png",
+    "tokenId": 1321,
+    "name": "DANCING_BEARS_ON_ACID 1321",
+    "attributes": [
+        {
+            "trait_type": "Backgrounds",
+            "value": "Sunshine DayDream"
+        },
+        {
+            "trait_type": "Bears",
+            "value": "Yellow and Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Groovy"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Jerry Hair"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "No Mouth Decoration"
+        },
+        {
+            "trait_type": "Outfits",
+            "value": "Xmen Uniform"
+        },
+        {
+            "trait_type": "Powers",
+            "value": "LaserBeam"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmRUEiWuV3YRweyE4e8zYMmifK54ZuVSwAE2XLfs95Jp47/512.png",
+    "tokenId": 512,
+    "name": "DANCING_BEARS_ON_ACID 512",
+    "attributes": [
+        {
+            "trait_type": "Backgrounds",
+            "value": "Scarlet Begonias"
+        },
+        {
+            "trait_type": "Bears",
+            "value": "Black Tie Dye and Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Groovy"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Bootsy"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cigarette"
+        },
+        {
+            "trait_type": "Outfits",
+            "value": "Xmen Uniform"
+        },
+        {
+            "trait_type": "Powers",
+            "value": "No Power"
+        }
+    ]
+}
