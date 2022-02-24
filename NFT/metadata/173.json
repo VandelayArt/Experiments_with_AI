@@ -1,15 +1,35 @@
 {
-    "tokenId": "173",
-    "name": "bears 173",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRUEiWuV3YRweyE4e8zYMmifK54ZuVSwAE2XLfs95Jp47/173.png",
+    "tokenId": 173,
+    "name": "DANCING_BEARS_ON_ACID 173",
     "attributes": [
         {
-            "backgrounds": "1"
+            "trait_type": "Backgrounds",
+            "value": "Sunshine DayDream"
         },
         {
-            "bears": "1"
+            "trait_type": "Bears",
+            "value": "Rasta Tie Dye"
         },
         {
-            "accessoires": "3"
+            "trait_type": "Eyes",
+            "value": "Groovy"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Afro Beard"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "No Mouth Decoration"
+        },
+        {
+            "trait_type": "Outfits",
+            "value": "Xmen Uniform"
+        },
+        {
+            "trait_type": "Powers",
+            "value": "No Power"
         }
     ]
 }

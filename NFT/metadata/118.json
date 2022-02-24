@@ -1,15 +1,35 @@
 {
-    "tokenId": "118",
-    "name": "bears 118",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRUEiWuV3YRweyE4e8zYMmifK54ZuVSwAE2XLfs95Jp47/118.png",
+    "tokenId": 118,
+    "name": "DANCING_BEARS_ON_ACID 118",
     "attributes": [
         {
-            "backgrounds": "4"
+            "trait_type": "Backgrounds",
+            "value": "Sunshine DayDream"
         },
         {
-            "bears": "7"
+            "trait_type": "Bears",
+            "value": "Pink Tie Dye and Gold"
         },
         {
-            "accessoires": "2"
+            "trait_type": "Eyes",
+            "value": "Bootsy"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Golden Earrings"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bloody Fangs"
+        },
+        {
+            "trait_type": "Outfits",
+            "value": "Xmen Uniform"
+        },
+        {
+            "trait_type": "Powers",
+            "value": "LaserBeam"
         }
     ]
 }

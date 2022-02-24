@@ -1,15 +1,35 @@
 {
-    "tokenId": "141",
-    "name": "bears 141",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRUEiWuV3YRweyE4e8zYMmifK54ZuVSwAE2XLfs95Jp47/141.png",
+    "tokenId": 141,
+    "name": "DANCING_BEARS_ON_ACID 141",
     "attributes": [
         {
-            "backgrounds": "5"
+            "trait_type": "Backgrounds",
+            "value": "Rainbow Spiral"
         },
         {
-            "bears": "4"
+            "trait_type": "Bears",
+            "value": "Green and Yellow"
         },
         {
-            "accessoires": "4"
+            "trait_type": "Eyes",
+            "value": "Cyclops"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Afro Beard"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "No Mouth Decoration"
+        },
+        {
+            "trait_type": "Outfits",
+            "value": "No Outfit"
+        },
+        {
+            "trait_type": "Powers",
+            "value": "LaserBeam"
         }
     ]
 }

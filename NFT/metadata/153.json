@@ -1,15 +1,35 @@
 {
-    "tokenId": "153",
-    "name": "bears 153",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRUEiWuV3YRweyE4e8zYMmifK54ZuVSwAE2XLfs95Jp47/153.png",
+    "tokenId": 153,
+    "name": "DANCING_BEARS_ON_ACID 153",
     "attributes": [
         {
-            "backgrounds": "3"
+            "trait_type": "Backgrounds",
+            "value": "The Rabbit Hole"
         },
         {
-            "bears": "2"
+            "trait_type": "Bears",
+            "value": "Yellow and Green"
         },
         {
-            "accessoires": "5"
+            "trait_type": "Eyes",
+            "value": "Bootsy"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Jerry Hair"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cigarette"
+        },
+        {
+            "trait_type": "Outfits",
+            "value": "Xmen Uniform"
+        },
+        {
+            "trait_type": "Powers",
+            "value": "No Power"
         }
     ]
 }

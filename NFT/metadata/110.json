@@ -1,15 +1,35 @@
 {
-    "tokenId": "110",
-    "name": "bears 110",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRUEiWuV3YRweyE4e8zYMmifK54ZuVSwAE2XLfs95Jp47/110.png",
+    "tokenId": 110,
+    "name": "DANCING_BEARS_ON_ACID 110",
     "attributes": [
         {
-            "backgrounds": "5"
+            "trait_type": "Backgrounds",
+            "value": "African Rasta"
         },
         {
-            "bears": "2"
+            "trait_type": "Bears",
+            "value": "Pink Tie Dye and White"
         },
         {
-            "accessoires": "4"
+            "trait_type": "Eyes",
+            "value": "Rayban"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "No Hairstyle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Gold Tooth"
+        },
+        {
+            "trait_type": "Outfits",
+            "value": "No Outfit"
+        },
+        {
+            "trait_type": "Powers",
+            "value": "No Power"
         }
     ]
 }

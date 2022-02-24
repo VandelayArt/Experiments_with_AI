@@ -1,15 +1,35 @@
 {
-    "tokenId": "23",
-    "name": "bears 23",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRUEiWuV3YRweyE4e8zYMmifK54ZuVSwAE2XLfs95Jp47/23.png",
+    "tokenId": 23,
+    "name": "DANCING_BEARS_ON_ACID 23",
     "attributes": [
         {
-            "backgrounds": "5"
+            "trait_type": "Backgrounds",
+            "value": "Pink Tie Dye"
         },
         {
-            "bears": "6"
+            "trait_type": "Bears",
+            "value": "Purple and Yellow"
         },
         {
-            "accessoires": "5"
+            "trait_type": "Eyes",
+            "value": "Rayban"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "No Hairstyle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "No Mouth Decoration"
+        },
+        {
+            "trait_type": "Outfits",
+            "value": "No Outfit"
+        },
+        {
+            "trait_type": "Powers",
+            "value": "No Power"
         }
     ]
 }

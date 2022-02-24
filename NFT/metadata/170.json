@@ -1,15 +1,35 @@
 {
-    "tokenId": "170",
-    "name": "bears 170",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRUEiWuV3YRweyE4e8zYMmifK54ZuVSwAE2XLfs95Jp47/170.png",
+    "tokenId": 170,
+    "name": "DANCING_BEARS_ON_ACID 170",
     "attributes": [
         {
-            "backgrounds": "5"
+            "trait_type": "Backgrounds",
+            "value": "The Rabbit Hole"
         },
         {
-            "bears": "6"
+            "trait_type": "Bears",
+            "value": "Purple and Yellow"
         },
         {
-            "accessoires": "4"
+            "trait_type": "Eyes",
+            "value": "No Eye Decoration"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "No Hairstyle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "No Mouth Decoration"
+        },
+        {
+            "trait_type": "Outfits",
+            "value": "No Outfit"
+        },
+        {
+            "trait_type": "Powers",
+            "value": "No Power"
         }
     ]
 }

@@ -1,15 +1,35 @@
 {
-    "tokenId": "53",
-    "name": "bears 53",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRUEiWuV3YRweyE4e8zYMmifK54ZuVSwAE2XLfs95Jp47/53.png",
+    "tokenId": 53,
+    "name": "DANCING_BEARS_ON_ACID 53",
     "attributes": [
         {
-            "backgrounds": "2"
+            "trait_type": "Backgrounds",
+            "value": "The Rabbit Hole"
         },
         {
-            "bears": "4"
+            "trait_type": "Bears",
+            "value": "Rasta Tie Dye"
         },
         {
-            "accessoires": "5"
+            "trait_type": "Eyes",
+            "value": "Groovy"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Golden Earrings"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bloody Fangs"
+        },
+        {
+            "trait_type": "Outfits",
+            "value": "No Outfit"
+        },
+        {
+            "trait_type": "Powers",
+            "value": "LaserBeam"
         }
     ]
 }

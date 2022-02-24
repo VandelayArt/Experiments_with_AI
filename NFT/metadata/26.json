@@ -1,15 +1,35 @@
 {
-    "tokenId": "26",
-    "name": "bears 26",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRUEiWuV3YRweyE4e8zYMmifK54ZuVSwAE2XLfs95Jp47/26.png",
+    "tokenId": 26,
+    "name": "DANCING_BEARS_ON_ACID 26",
     "attributes": [
         {
-            "backgrounds": "3"
+            "trait_type": "Backgrounds",
+            "value": "Peace Out"
         },
         {
-            "bears": "3"
+            "trait_type": "Bears",
+            "value": "Yellow and Green"
         },
         {
-            "accessoires": "3"
+            "trait_type": "Eyes",
+            "value": "No Eye Decoration"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "No Hairstyle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "No Mouth Decoration"
+        },
+        {
+            "trait_type": "Outfits",
+            "value": "Xmen Uniform"
+        },
+        {
+            "trait_type": "Powers",
+            "value": "No Power"
         }
     ]
 }
