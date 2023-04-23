@@ -20,20 +20,17 @@ while True:
 
     # Analyzing the frame using DeepFace module and specifying what to analyze
         #Options are gender, dominant emotion, dominant race and age
-    result = DeepFace.analyze(frame,actions=['emotion'], enforce_detection=False)
+    result = DeepFace.analyze(frame,actions=['dominant_emotion', 'gender', 'dominant_race',], enforce_detection=False)
     
     # Storing the dominant_emotion in a callable variable
     emotion = result['dominant_emotion']
     
-    """ 
     gender = result['gender']
     race = result['dominant_race']
-    age = result['age']
 
     # Combining all required values from the analysis dictionary
-    combined_result = (emotion + "," + gender + "," + str(age) + "," + race) 
+    combined_result = str(emotion + "," + gender + "," + race) 
     
-    """
     
     # Grayscaling the frame
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
@@ -53,31 +50,31 @@ while True:
     # Defining the text to show on screen by a series of if statements
         # If happy
     if emotion == "happy":    
-        cv2.putText(frame, "Love your smile", (100,350), font, 1,
+        cv2.putText(frame, combined_result, (100,350), font, 1,
                     (randrange(256), randrange(256), randrange(256)),
                     2, cv2.LINE_4
                 )
         # If sad
     elif emotion == "sad":
-        cv2.putText(frame, "Cheer up Buttercup", (100,350), font, 1,
+        cv2.putText(frame, combined_result, (100,350), font, 1,
                     (randrange(256), randrange(256), randrange(256)),
                     2, cv2.LINE_4
                 )
         # If angry
     elif emotion == "angry":
-        cv2.putText(frame, "Why so serious?", (100,350), font, 1,
+        cv2.putText(frame, combined_result, (100,350), font, 1,
                     (randrange(256), randrange(256), randrange(256)),
                     2, cv2.LINE_4
                 )
         # If surprised        
     elif emotion == "surprise":
-        cv2.putText(frame, "Scared you there didn't I?", (100,350), font, 1,
+        cv2.putText(frame, combined_result, (100,350), font, 1,
                     (randrange(256), randrange(256), randrange(256)),
                     2, cv2.LINE_4
                 )
         # If no specific emotion is recognized
     elif emotion == "neutral":
-        cv2.putText(frame, "Someone's in a mood...", (100,350), font, 1,
+        cv2.putText(frame, combined_result, (100,350), font, 1,
                     (randrange(256), randrange(256), randrange(256)),
                     2, cv2.LINE_4
                 )
